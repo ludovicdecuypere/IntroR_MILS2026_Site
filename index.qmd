@@ -37,7 +37,7 @@ All course materials are provided on this website and includes slides, R-scripts
 
 ## Approach
 
-Nothing beats hands-on instruction from an actual instructor. I also find it very important to start slowly. Students are expected to write code and to make mistakes. Forgetting a comma or a bracket is a very rewarding experience for every learner. Actually, the first three hours or so of this course are spent in R and R only, i.e., sans RStudio. I also like to start with base R, rather than jump straight into the deep end with tidyverse. This is very much inspired by Norm Matloff's fasteR course, which is definitely one of my favourite online R courses; check it out: 
+Nothing beats hands-on instruction from an actual instructor. I also find it very important to start slowly. Students are expected to write code and to make mistakes. Forgetting a comma or a bracket is a very rewarding experience for every learner. Actually, the first three hours or so of this course are spent in R and R only, i.e., sans RStudio - it's less scary than one might think. I also like to start with base R, rather than jump straight into the deep end with tidyverse. This is very much inspired by Norm Matloff's fasteR course, which is definitely one of my favourite online R courses; check it out: 
 <https://github.com/matloff/faster>
 
 

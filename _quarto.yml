@@ -18,14 +18,6 @@ website:
       - href: Assignment.qmd
         text: Assignment
 
-page-footer:
-    left: |
-      <span class="faux-block">{{< fa brands creative-commons >}} 2026 -  Ludovic De Cuypere</span>
-      <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>      
-    right: |
-      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
-      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/ludovicdecuypere/ludovicdecuypere.github.io)</span>
-  
 format:
   html:
     theme: [Journal, mystyle_main.scss]
@@ -36,6 +28,14 @@ format:
     toc-font-size: 0.9rem
     link-external-icon: true
     link-external-newwindow: true
+
+page-footer:
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} 2026 -  Ludovic De Cuypere</span>
+      <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>      
+    right: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/ludovicdecuypere/IntroR_Course_LDC)</span>
 
 execute:
   freeze: auto

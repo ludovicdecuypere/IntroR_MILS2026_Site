@@ -1,0 +1,12 @@
+---
+title: "Slides"
+---
+
+:::{.callout-note}
+In order to see the slides full screen, click on a slide and press `f`. Press `esc` to go back to normal rendering.
+:::
+
+
+```{=html}
+<iframe width="1200" height="700" src="Slides_IntroR.html" title="IntroR_Slides"></iframe>
+```

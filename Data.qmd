@@ -1,0 +1,80 @@
+---
+title: "Data"
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+Below you will find the datasets used in this course. You can download them directly or use the provided links to load them into R/RStudio.
+
+## False beginners
+
+This dataset contains ... 
+
+* **Download:** FalseBeginners.txt
+* **Format:** tab delimited text file
+
+#### Codebook
+
+| Variable | Description |
+|----------|-------------|
+| `student` | ... |
+| `School` | ... |
+| `Class` | ... | 
+| `Class` | ... |
+
+#### Data Preview
+
+```{r}
+fb <- read.delim("FalseBeginners.txt") 
+head(fb)
+```
+
+## Vocatives
+
+dataset_ImPoliteVocatives_20230530.csv
+
+This dataset contains ... 
+
+* **Download:** dataset_ImPoliteVocatives_20230530.csv
+
+#### Codebook
+
+| Variable | Description |
+|----------|-------------|
+| `student` | ... |
+| `School` | ... |
+| `Class` | ... | 
+| `Class` | ... |
+
+#### Data Preview
+
+```{r}
+voc <- read.csv2("dataset_ImPoliteVocatives_20230530.csv") 
+options(width = 60) # to print columns side by side
+head(voc)
+```
+
+## Listening to accents
+
+This dataset contains ... 
+
+* **Download:** Listening_to_Accents_Comprehensibility_Accentedness.csv
+
+#### Codebook
+
+| Variable | Description |
+|----------|-------------|
+| `student` | ... |
+| `School` | ... |
+| `Class` | ... | 
+| `Class` | ... |
+
+#### Data Preview
+
+```{r}
+accent <- read.csv("Listening_to_Accents_Comprehensibility_Accentedness.csv") 
+head(accent)
+```
+
