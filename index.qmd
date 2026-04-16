@@ -47,32 +47,4 @@ All course materials for this module are provided on this website and includes s
 
 ## Approach
 
-Nothing beats hands-on instruction from an experienced instructor. You are expected to write code and to make mistakes. Forgetting a comma or a bracket is a very rewarding experience, especially for beginners. Don't remore friction by using genAI or LLMs from the very beginning. Yes, LLMs are incredibly good and will assist you at a later stage, but resits the temptation to use these tools as a beginner. Actually, the first three hours or so of this course are spent in R and R only, i.e., sans RStudio -- which is less scary than one might think. This course also starts with base R, rather than jumping  straight into the deep end with tidyverse. This is very much inspired by Norm Matloff's course [fasteR]
-<https://github.com/matloff/faster>. 
-
-## Schedule
-
-### DAY 1
-
-| Time          | Topic        | 
-|:-------------:|:------------:|
-| 09:00 - 10:30 | ADD LINK     |
-| 11:00 - 12:30 | ADD LINK     | 
-| 14:00 - 15:30 | ADD LINK     | 
-| 16:00 - 17:30 | ADD LINK     | 
-
-### DAY 2
-
-| Time          | Topic        | 
-|:-------------:|:------------:|
-| 09:00 - 10:30 | ADD LINK     |
-| 11:00 - 12:30 | ADD LINK     | 
-| 14:00 - 15:30 | ADD LINK     | 
-| 16:00 - 17:30 | ADD LINK     | 
-
-### DAY 3
-
-| Time          | Topic        | 
-|:-------------:|:------------:|
-| 09:00 - 10:30 | ADD LINK     |
-| 11:00 - 12:30 | ADD LINK     | 
+Nothing beats hands-on instruction from an experienced instructor. You are expected to write code and to make mistakes. Forgetting a comma or a bracket is a very rewarding experience, especially for beginners. Don't remore friction by using genAI or LLMs from the very beginning. Yes, LLMs are incredibly good and will assist you at a later stage, but resits the temptation to use these tools as a beginner. Actually, the first three hours or so of this course are spent in R and R only, i.e., sans RStudio -- which is less scary than one might think. This course also starts with base R, rather than jumping  straight into the deep end with tidyverse. This is very much inspired by Norm Matloff's course [fasteR](https://github.com/matloff/faster). 

@@ -39,21 +39,14 @@
     "href": "index.html#approach",
     "title": "Welcome!",
     "section": "Approach",
-    "text": "Approach\nNothing beats hands-on instruction from an experienced instructor. You are expected to write code and to make mistakes. Forgetting a comma or a bracket is a very rewarding experience, especially for beginners. Don’t remore friction by using genAI or LLMs from the very beginning. Yes, LLMs are incredibly good and will assist you at a later stage, but resits the temptation to use these tools as a beginner. Actually, the first three hours or so of this course are spent in R and R only, i.e., sans RStudio – which is less scary than one might think. This course also starts with base R, rather than jumping straight into the deep end with tidyverse. This is very much inspired by Norm Matloff’s course [fasteR] https://github.com/matloff/faster."
-  },
-  {
-    "objectID": "index.html#schedule",
-    "href": "index.html#schedule",
-    "title": "Welcome!",
-    "section": "Schedule",
-    "text": "Schedule\n\nDAY 1\n\n\n\nTime\nTopic\n\n\n\n\n09:00 - 10:30\nADD LINK\n\n\n11:00 - 12:30\nADD LINK\n\n\n14:00 - 15:30\nADD LINK\n\n\n16:00 - 17:30\nADD LINK\n\n\n\n\n\nDAY 2\n\n\n\nTime\nTopic\n\n\n\n\n09:00 - 10:30\nADD LINK\n\n\n11:00 - 12:30\nADD LINK\n\n\n14:00 - 15:30\nADD LINK\n\n\n16:00 - 17:30\nADD LINK\n\n\n\n\n\nDAY 3\n\n\n\nTime\nTopic\n\n\n\n\n09:00 - 10:30\nADD LINK\n\n\n11:00 - 12:30\nADD LINK"
+    "text": "Approach\nNothing beats hands-on instruction from an experienced instructor. You are expected to write code and to make mistakes. Forgetting a comma or a bracket is a very rewarding experience, especially for beginners. Don’t remore friction by using genAI or LLMs from the very beginning. Yes, LLMs are incredibly good and will assist you at a later stage, but resits the temptation to use these tools as a beginner. Actually, the first three hours or so of this course are spent in R and R only, i.e., sans RStudio – which is less scary than one might think. This course also starts with base R, rather than jumping straight into the deep end with tidyverse. This is very much inspired by Norm Matloff’s course fasteR."
   },
   {
     "objectID": "Coursebook.html",
     "href": "Coursebook.html",
-    "title": "Materials",
+    "title": "Coursebook",
     "section": "",
-    "text": "The coursebook as a website: Coursebook\nCoursebook\nOr if you prefer to download the pdf: https://github.com/ludovicdecuypere/IntroR_MILS2026_Book/blob/main/_book/R-for-Statistical-Data-Analysis.pdf\nAnd here are the slides:\nINCLUDE SLIDES"
+    "text": "The coursebook is provided as a website and as a pdf file:\n\n\nCoursebook site\n\nCoursebook pdf"
   },
   {
     "objectID": "Data.html",
