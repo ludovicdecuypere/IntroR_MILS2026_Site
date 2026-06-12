@@ -25,6 +25,8 @@ In this course, you will explore, summarize, and visualize variables from the fo
 
 Here is a brief explanation for each dataset, so that you have a basic understanding of what kind of data is provided. For each dataset, the file format is provided, along with a codebook and an overview of the fist six rows of the data. 
 
+All datasets can also be found [HERE](https://github.com/ludovicdecuypere/IntroR_MILS2026_Site/Data)
+
 ## False beginners
 
 For this part we use the `FalseBeginners` dataset. The dataset is based on De Wilde et al. [-@dewilde2019], available at <https://osf.io/ndr47/>. I have selected and renamed the variables for our purposes here. @tbl-falsebeginnerscodebook provides an overview of the variables.
