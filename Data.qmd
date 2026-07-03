@@ -25,7 +25,7 @@ In this course, you will explore, summarize, and visualize variables from the fo
 
 Here is a brief explanation for each dataset, so that you have a basic understanding of what kind of data is provided. For each dataset, the file format is provided, along with a codebook and an overview of the fist six rows of the data. 
 
-All datasets can also be found [HERE](https://github.com/ludovicdecuypere/IntroR_MILS2026_Site/Data)
+All datasets can also be found [HERE](https://github.com/ludovicdecuypere/IntroR_MILS2026_Site/tree/main/Data)
 
 ## False beginners
 
